@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2400-0F15
+
+ Directory of C:\Users\balu\Desktop\Myproject
+
+06/25/2019  12:39 AM    <DIR>          .
+06/25/2019  12:39 AM    <DIR>          ..
+06/25/2019  12:39 AM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  27,604,459,520 bytes free
